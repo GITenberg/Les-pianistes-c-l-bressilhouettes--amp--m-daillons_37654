@@ -18,6 +18,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Antoine-Fran%C3%A7ois_Marmontel
     - http://en.wikipedia.org/wiki/Antoine_Fran%C3%A7ois_Marmontel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37654#Les-pianistes-c-l-bressilhouettes--amp--m-daillons
 gutenberg_bookshelf: FR Musique
 gutenberg_issued: '2011-10-07'
 gutenberg_type: Text
