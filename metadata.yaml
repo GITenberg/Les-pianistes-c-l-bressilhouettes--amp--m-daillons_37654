@@ -1,0 +1,41 @@
+_repo: Les-pianistes-c-l-bressilhouettes--amp--m-daillons_37654
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marmontel, A. (Antoine)
+    aliases:
+    - Marmontel, Antoine-François
+    - Marmontel, Antoine-Francois
+    - Marmontel, Antoine
+    birthdate: 1816
+    deathdate: 1898
+    gutenberg_agent_id: '38974'
+    url: http://www.gutenberg.org/2009/agents/38974
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Antoine-Fran%C3%A7ois_Marmontel
+    - http://en.wikipedia.org/wiki/Antoine_Fran%C3%A7ois_Marmontel
+description: ''
+gutenberg_bookshelf: FR Musique
+gutenberg_issued: '2011-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37654'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pianists -- Biography'
+- !lcsh 'Pianists'
+- !lcc 'ML'
+tableOfContents: F. Chopin -- Bertini -- Stephen Heller -- Henry Herz -- Clementi
+  -- E. Prudent -- Madame Pleyel -- Amédée de Méreaux -- John Field -- F. Kalkbrenner
+  -- Dussek -- Ch. Valentin Alkan -- Cramer -- Gottschalk -- Steibelt -- S. Thalberg
+  -- Madame Farrenc -- Hummel -- Moschelès -- Zimmerman -- Ferdinand Ries -- Camille
+  Stamaty -- Ferdinand Hiller -- Louis Adam -- Théodore Dœlher -- Madame de Montgeroult
+  -- Lefébure-Wély -- Goria -- Czerny -- Liszt.
+title: 'Les pianistes célèbres: silhouettes & médaillons'
+url: http://www.gutenberg.org/ebooks/37654
